@@ -158,4 +158,8 @@ aliases:
   - []
   minecraft:tick:
   - []
+  clone:
+  - []
+  minecraft:clone:
+  - []
 unrestricted-advancements: false
